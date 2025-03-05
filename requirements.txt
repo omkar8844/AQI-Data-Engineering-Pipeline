@@ -1,0 +1,8 @@
+pandas
+requests
+ast
+SQLAlchemy
+psycopg2
+
+
+C:\\Users\\Omkar\\AppData\\Local\\Temp\\pip-install-knfu7s8t\\ast_0ddb1b55035446eeb25caccdad8e0570\\AST/README
