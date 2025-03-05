@@ -15,7 +15,7 @@ def get_data(cities):
         cities = [cities]
         print(cities)
     for city in cities:
-        url = f'https://api.waqi.info/feed/{city}/?token=e320d57d0ff9374a3f4b2fde44aaed1062d3b7c9'
+        url = f'URL WITH API-TOKEN'
         r = requests.get(url)
         json_data = r.json()
         if json_data['status'] == 'error':
